@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+see the <a><link href="https://a-toscan.github.io/VideoGame-console/" target="_blank">Demo</a>
 
 ## Getting Started <a name = "getting_started"></a>
 
