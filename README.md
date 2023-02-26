@@ -11,7 +11,7 @@ Project for the GeeksHubs Bootcamp
 
 creation of a layout Gameboy console with the use of CSS
 
-see the <a><link href="https://a-toscan.github.io/VideoGame-console/" target="_blank">Demo</a>
+see the <a href="https://a-toscan.github.io/VideoGame-console/" target="_blank">Demo</a>
 
 ### Prerequisites
 
