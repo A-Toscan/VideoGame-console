@@ -1,19 +1,17 @@
-# Project Title
+# Video Game console
 
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Prerequisites](#prerequisites)
 
 ## About <a name = "about"></a>
 
+Project for the GeeksHubs Bootcamp
+
+creation of a layout Gameboy console with the use of CSS
+
 see the <a><link href="https://a-toscan.github.io/VideoGame-console/" target="_blank">Demo</a>
-
-## Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -39,22 +37,20 @@ example of buttons effect with :hover
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
+creation of different sections in the css styles archive.
 
-Say what the step will be
+monitors section
 
-```
-Give the example
-```
+section buttons, directional and cross buttons
 
-And repeat
+final segment section
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
+Added effects to the buttons
 
 ## Usage <a name = "usage"></a>
 
-Add notes about how to use the system.
+Add a gif video of space invaders as final touch.
+
+<img src="/img/spaceinvaders.JPG" alt="space invaders gif">
+
+The End.
