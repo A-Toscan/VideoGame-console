@@ -73,13 +73,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+}
   
-  h3 {
+h3 {
     font-family: pretendo;
     font-size: 15px;
     color: #dfa4f0;
-  }
+}
 
 /* direcional buttons section */
 
@@ -125,7 +125,35 @@ body {
     box-shadow: rgba(68, 68, 70, 0.25) 0px 30px 60px -12px inset, rgba(197, 192, 192, 0.3) 0px 18px 36px -18px inset;
 }
 
-.up:hover, .down:hover, .cruz-button:hover, .first:hover, .second:hover {
+.up:hover, .down:hover, .cross-button:hover, .first:hover, .second:hover {
     border: 2px solid #dfa4f0;
     box-shadow: #eddef1;
+}
+
+/*   cross button section     */
+
+.direction {
+    width: 100px;
+    height: 100px;
+    background-color: #a271b49c;
+    border: 1px solid #7f4c929c;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    right: 180px;
+    justify-content: center;
+    align-content: center;
+}
+  
+.cross-button {
+    width: 80px;
+    height: 80px;
+    border: 1px solid black;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    clip-path: polygon(32.2% 0%, 66.4% 0%, 66.4% 33%, 100% 33%, 100% 66%, 66.4% 66%, 66.4% 100%, 32.2% 100%, 32.2% 66%, 0% 66%, 0% 33%, 32.2% 33%);
+    border-radius: 20%;
+    background: #302f36;
+    box-shadow: rgba(128, 128, 129, 0.25) 0px 30px 60px -12px inset, rgba(197, 192, 192, 0.3) 0px 18px 36px -18px inset;
 }
