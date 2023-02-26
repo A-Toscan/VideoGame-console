@@ -27,6 +27,16 @@ example of flex
 
 <img src="/img/flex.JPG" alt="example of flex">
 
+example of grid
+
+<img src="/img/grid.JPG" alt="example of grid">
+
+##Use of button effects
+
+example of buttons effect with :hover
+
+<img src="/img/hover.JPG" alt="example of button effect">
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
