@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "pretendo";
+    src: url(/pretendo.ttf);
+  }  
+
 *{
     margin: 0;
     padding: 0;
@@ -31,6 +36,8 @@ body {
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }  
   
+/* monitors section */
+
 .monitor {
     width: 250px;
     height: 200px;
@@ -52,3 +59,27 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+
+/* logo section */
+
+.logo{
+    border: 1px solid #eddef1;
+    background-color: #9768A7;
+    border-radius: 25px ;
+    height: 30px;
+    width: 90px;
+    position: absolute;
+    bottom: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h3 {
+    font-family: pretendo;
+    font-size: 15px;
+    color: #dfa4f0;
+  }
+
+/* direcional buttons section */
+  
