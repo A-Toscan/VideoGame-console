@@ -7,7 +7,7 @@
 
 ## About <a name = "about"></a>
 
-Project for the GeeksHubs Bootcamp
+Antonio Toscano's project for the GeeksHubs Bootcamp
 
 creation of a layout Gameboy console with the use of CSS
 
