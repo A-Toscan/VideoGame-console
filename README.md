@@ -21,13 +21,9 @@ Use of Flex and Grid in CSS
 Give examples
 ```
 
-example of flex
+example of flex and grid
 
-<img src="/img/flex.JPG" alt="example of flex">
-
-example of grid
-
-<img src="/img/grid.JPG" alt="example of grid">
+<img src="/img/demo.JPG" alt="final layout">
 
 ##Use of button effects
 
