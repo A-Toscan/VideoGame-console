@@ -4,6 +4,7 @@
 
 - [About](#about)
 - [Prerequisites](#prerequisites)
+- [Contact](#contact)
 
 ## About <a name = "about"></a>
 
@@ -49,4 +50,8 @@ Add a gif video of space invaders as final touch.
 
 <img src="/img/spaceinvaders.JPG" alt="space invaders gif">
 
-The End.
+## Contact:
+
+<a href = "mailto:eltoscan@gmail.com"><img src="https://img.shields.io/badge/Gmail-C6362C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/antonio-toscano-hd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

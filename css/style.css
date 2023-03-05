@@ -21,6 +21,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: flex-start; 
+    
 }
 
 .box {
@@ -126,7 +127,7 @@ h3 {
     box-shadow: rgba(68, 68, 70, 0.25) 0px 30px 60px -12px inset, rgba(197, 192, 192, 0.3) 0px 18px 36px -18px inset;
 }
 
-.up:hover, .down:hover, .cross-button:hover, .first:hover, .second:hover {
+.up:hover, .down:hover, .seg-1:hover, .seg-2:hover, .direction:hover {
     border: 2px solid #dfa4f0;
     box-shadow: #eddef1;
 }
@@ -163,6 +164,10 @@ h3 {
 .cross-button {
     width: 100px;
     height: 100px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    background-color: transparent;
     
 }
 
@@ -172,6 +177,8 @@ h3 {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #a271b400;
+    
 }
 
 .top {
@@ -191,6 +198,7 @@ h3 {
     height: 30px;
     background-color: #302f36;
     border: 1px solid black;
+    
 }
 
 .bottom {
@@ -202,6 +210,7 @@ h3 {
     justify-content: center;
     align-items: center;
     border: 1px solid black;
+    
 }
 
 .circle {
@@ -215,6 +224,7 @@ h3 {
     display: flex;
     justify-content: center;
     align-items: center;
+    
 
 }
 
