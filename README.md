@@ -18,19 +18,15 @@ see the <a href="https://a-toscan.github.io/VideoGame-console/" target="_blank">
 
 Use of Flex and Grid in CSS
 
-```
-Give examples
-```
-
 example of flex and grid
 
-<img src="/img/demo.JPG" alt="final layout">
+<img src="img/demo.JPG" alt="final layout">
 
 ##Use of button effects
 
 example of buttons effect with :hover
 
-<img src="/img/hover.JPG" alt="example of button effect">
+<img src="img/hover.JPG" alt="example of button effect">
 
 ### Installing
 
