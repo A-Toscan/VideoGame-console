@@ -20,13 +20,13 @@ Use of Flex and Grid in CSS
 
 example of flex and grid
 
-<img src="img/demo.JPG" alt="final layout">
+<img src="imagenes/demo.JPG" alt="final layout">
 
 ##Use of button effects
 
 example of buttons effect with :hover
 
-<img src="img/hover.JPG" alt="example of button effect">
+<img src="imagenes/hover.JPG" alt="example of button effect">
 
 ### Installing
 
@@ -44,7 +44,7 @@ Added effects to the buttons
 
 Add a gif video of space invaders as final touch.
 
-<img src="/img/spaceinvaders.JPG" alt="space invaders gif">
+<img src="imagenes/spaceinvaders.JPG" alt="space invaders gif">
 
 ## Contact:
 
